@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.*.local
+
+
+logs/
+*.log
+logs/**/*.log
+
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
